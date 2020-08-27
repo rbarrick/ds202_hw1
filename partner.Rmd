@@ -1,0 +1,15 @@
+---
+title: "partner"
+author: "Jay Maxwell"
+date: "8/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<h3>Jay Maxwell</h3>
+<h3>OnoLocoMoco</h3>
+<p> I was able to knit the owner's hw1.Rmd<p>
+<h2>Owner's first commit: </h2><p>01e3efa7ca44928bbf5f8d389f3262a3de88bde1</p>
